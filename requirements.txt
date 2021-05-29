@@ -9,4 +9,4 @@ streamlit==0.81.0
 scikit_learn==0.24.2
 lightgbm==3.2.1
 cufflinks==0.17.3
-sqlite==3.8.3
+sqlite
