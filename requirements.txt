@@ -8,7 +8,6 @@ numpy==1.20.2
 streamlit==0.81.0
 scikit_learn==0.24.2
 lightgbm==3.2.1
-plotly==4.1.0
 base64==3.1
 time==3.7
 io==3.8
