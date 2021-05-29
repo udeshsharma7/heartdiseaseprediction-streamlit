@@ -13,3 +13,7 @@ heart.csv - Database file
 happy.jpg,image1.jpg,image2.png,sad.jpg -Some images used in the web framework
 finalshow.py - This is basic website we created without login and sigup.
 heartdiseaseprediction.ipynb - jupyter file
+
+
+
+https://share.streamlit.io/udeshsharma7/heartdiseaseprediction-streamlit/main/mainfile.py
