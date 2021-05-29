@@ -86,7 +86,7 @@ def intr():
 
 def dataset(df):
 
-    st.header("About our Dataset")
+    st.header("About our Datasetmmmmm")
     st.text("The dataset used by us is the Cleveland Heart Disease dataset taken from the UCI \nrepository.")
     st.write(df.head(305))
     st.subheader("The dataset consists of 303 individuals data. There are 14 columns in the dataset,which are described below.")
